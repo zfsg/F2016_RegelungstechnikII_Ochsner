@@ -1,0 +1,135 @@
+\select@language {english}
+\contentsline {part}{\numberline {I}RT1}{2}{part.1}
+\contentsline {section}{\numberline {1}Definitions}{2}{section.1}
+\contentsline {section}{\numberline {2}Standard Control System}{2}{section.2}
+\contentsline {section}{\numberline {3}System Representation}{2}{section.3}
+\contentsline {subsection}{\numberline {3.1}Modelling}{2}{subsection.3.1}
+\contentsline {subsection}{\numberline {3.2}Normalization}{2}{subsection.3.2}
+\contentsline {subsection}{\numberline {3.3}Linearization}{2}{subsection.3.3}
+\contentsline {subsection}{\numberline {3.4}State-Space Description}{3}{subsection.3.4}
+\contentsline {subsection}{\numberline {3.5}I/O Description}{3}{subsection.3.5}
+\contentsline {subsection}{\numberline {3.6}Frobenius Form}{3}{subsection.3.6}
+\contentsline {section}{\numberline {4}Analysis of Linear Systems}{3}{section.4}
+\contentsline {subsection}{\numberline {4.1}Time domain solution of y(t)}{3}{subsection.4.1}
+\contentsline {subsection}{\numberline {4.2}Lyapunov Stability}{3}{subsection.4.2}
+\contentsline {subsubsection}{\numberline {4.2.1}Lyapunov's Stability Principle}{3}{subsubsection.4.2.1}
+\contentsline {subsection}{\numberline {4.3}Block diagram}{3}{subsection.4.3}
+\contentsline {subsection}{\numberline {4.4}Reachability}{3}{subsection.4.4}
+\contentsline {subsubsection}{\numberline {4.4.1}Stabilizability}{3}{subsubsection.4.4.1}
+\contentsline {subsection}{\numberline {4.5}Observability}{4}{subsection.4.5}
+\contentsline {subsubsection}{\numberline {4.5.1}Detectability}{4}{subsubsection.4.5.1}
+\contentsline {subsection}{\numberline {4.6}State Space Decomposition}{4}{subsection.4.6}
+\contentsline {subsection}{\numberline {4.7}Minimal realization}{4}{subsection.4.7}
+\contentsline {subsubsection}{\numberline {4.7.1}Alternative procedure}{4}{subsubsection.4.7.1}
+\contentsline {subsection}{\numberline {4.8}Laplace-Transformation}{4}{subsection.4.8}
+\contentsline {subsubsection}{\numberline {4.8.1}Definition}{4}{subsubsection.4.8.1}
+\contentsline {subsubsection}{\numberline {4.8.2}Identities}{4}{subsubsection.4.8.2}
+\contentsline {subsubsection}{\numberline {4.8.3}Transform Table}{4}{subsubsection.4.8.3}
+\contentsline {subsection}{\numberline {4.9}Transfer Function}{4}{subsection.4.9}
+\contentsline {subsubsection}{\numberline {4.9.1}For a 2$\times $2 matrix}{5}{subsubsection.4.9.1}
+\contentsline {subsubsection}{\numberline {4.9.2}Simplification}{5}{subsubsection.4.9.2}
+\contentsline {section}{\numberline {5}Transfer functions}{5}{section.5}
+\contentsline {subsection}{\numberline {5.1}Poles}{5}{subsection.5.1}
+\contentsline {subsubsection}{\numberline {5.1.1}BIBO Stability}{5}{subsubsection.5.1.1}
+\contentsline {subsubsection}{\numberline {5.1.2}Comparison Lyapunov / BIBO}{5}{subsubsection.5.1.2}
+\contentsline {subsection}{\numberline {5.2}Zeros}{5}{subsection.5.2}
+\contentsline {subsubsection}{\numberline {5.2.1}Nonminimumphase-Zeros (NMPZ)}{5}{subsubsection.5.2.1}
+\contentsline {subsection}{\numberline {5.3}Step Answer}{6}{subsection.5.3}
+\contentsline {subsubsection}{\numberline {5.3.1}Static Gain}{6}{subsubsection.5.3.1}
+\contentsline {section}{\numberline {6}Frequency Response}{6}{section.6}
+\contentsline {subsection}{\numberline {6.1}Bode Diagram}{6}{subsection.6.1}
+\contentsline {subsubsection}{\numberline {6.1.1}Rules for drawing the bode diagram}{6}{subsubsection.6.1.1}
+\contentsline {subsubsection}{\numberline {6.1.2}Bode's Law}{6}{subsubsection.6.1.2}
+\contentsline {subsection}{\numberline {6.2}Nyquist Diagram}{6}{subsection.6.2}
+\contentsline {subsubsection}{\numberline {6.2.1}Rules for drawing the nyquist diagram}{6}{subsubsection.6.2.1}
+\contentsline {subsection}{\numberline {6.3}Frequency response $\rightarrow $ transfer function}{7}{subsection.6.3}
+\contentsline {subsection}{\numberline {6.4}Uncertainty Representation}{7}{subsection.6.4}
+\contentsline {section}{\numberline {7}Feedback systems}{7}{section.7}
+\contentsline {subsection}{\numberline {7.1}Nyquist theorem}{7}{subsection.7.1}
+\contentsline {subsection}{\numberline {7.2}Robustness measures}{7}{subsection.7.2}
+\contentsline {subsection}{\numberline {7.3}Constraints on closed-loop system}{8}{subsection.7.3}
+\contentsline {subsubsection}{\numberline {7.3.1}Modelling uncertainty}{8}{subsubsection.7.3.1}
+\contentsline {subsubsection}{\numberline {7.3.2}Nonminimumphase zeros}{8}{subsubsection.7.3.2}
+\contentsline {subsubsection}{\numberline {7.3.3}Delay}{8}{subsubsection.7.3.3}
+\contentsline {subsubsection}{\numberline {7.3.4}Unstable poles}{8}{subsubsection.7.3.4}
+\contentsline {subsubsection}{\numberline {7.3.5}Summary of limitations}{8}{subsubsection.7.3.5}
+\contentsline {section}{\numberline {8}Specifications for feedback control systems}{8}{section.8}
+\contentsline {subsubsection}{\numberline {8.0.1}Static error I}{8}{subsubsection.8.0.1}
+\contentsline {subsubsection}{\numberline {8.0.2}Static error II}{9}{subsubsection.8.0.2}
+\contentsline {section}{\numberline {9}Controler synthesis}{9}{section.9}
+\contentsline {subsection}{\numberline {9.1}PID Controller}{9}{subsection.9.1}
+\contentsline {subsection}{\numberline {9.2}Ziegler and Nichols}{9}{subsection.9.2}
+\contentsline {subsection}{\numberline {9.3}Lead/Lag}{10}{subsection.9.3}
+\contentsline {part}{\numberline {II}RT2}{10}{part.2}
+\contentsline {subsection}{\numberline {9.4}Plant inversion}{10}{subsection.9.4}
+\contentsline {subsubsection}{\numberline {9.4.1}Optimal loop gain}{10}{subsubsection.9.4.1}
+\contentsline {subsection}{\numberline {9.5}Loop shaping}{10}{subsection.9.5}
+\contentsline {subsubsection}{\numberline {9.5.1}Higher cross-over frequency $\omega _c$}{10}{subsubsection.9.5.1}
+\contentsline {section}{\numberline {10}Predictive control}{10}{section.10}
+\contentsline {subsubsection}{\numberline {10.0.1}Smith predictor}{10}{subsubsection.10.0.1}
+\contentsline {section}{\numberline {11}Robust performance}{11}{section.11}
+\contentsline {section}{\numberline {12}Cascaded control}{11}{section.12}
+\contentsline {section}{\numberline {13}Setpoint weighting}{12}{section.13}
+\contentsline {section}{\numberline {14}Feed forward}{12}{section.14}
+\contentsline {section}{\numberline {15}Anti reset-windup}{12}{section.15}
+\contentsline {section}{\numberline {16}Discrete-time systems}{13}{section.16}
+\contentsline {subsubsection}{\numberline {16.0.1}Euler forward}{14}{subsubsection.16.0.1}
+\contentsline {subsubsection}{\numberline {16.0.2}Euler backward}{14}{subsubsection.16.0.2}
+\contentsline {subsubsection}{\numberline {16.0.3}Trapezoidal (Tustin)}{14}{subsubsection.16.0.3}
+\contentsline {section}{\numberline {17}MIMO systems}{14}{section.17}
+\contentsline {subsection}{\numberline {17.1}Classification SI/MI/SO/MO}{14}{subsection.17.1}
+\contentsline {subsection}{\numberline {17.2}State-space description}{14}{subsection.17.2}
+\contentsline {subsection}{\numberline {17.3}Transfer function}{14}{subsection.17.3}
+\contentsline {subsubsection}{\numberline {17.3.1}Transfer function interconnection}{15}{subsubsection.17.3.1}
+\contentsline {subsubsection}{\numberline {17.3.2}Static gain}{15}{subsubsection.17.3.2}
+\contentsline {subsection}{\numberline {17.4}Stability}{15}{subsection.17.4}
+\contentsline {subsection}{\numberline {17.5}Controllability}{15}{subsection.17.5}
+\contentsline {subsection}{\numberline {17.6}Observability}{15}{subsection.17.6}
+\contentsline {subsection}{\numberline {17.7}Closed-loop stability}{15}{subsection.17.7}
+\contentsline {subsection}{\numberline {17.8}Nyquist theorem for MIMO-systems}{15}{subsection.17.8}
+\contentsline {subsection}{\numberline {17.9}Matrix minors}{15}{subsection.17.9}
+\contentsline {subsection}{\numberline {17.10}Poles}{15}{subsection.17.10}
+\contentsline {subsection}{\numberline {17.11}Zeros}{15}{subsection.17.11}
+\contentsline {subsection}{\numberline {17.12}Pole-Zero-Cancellations}{16}{subsection.17.12}
+\contentsline {section}{\numberline {18}Relative gain Array}{16}{section.18}
+\contentsline {section}{\numberline {19}Singular Value Decomposition}{16}{section.19}
+\contentsline {subsubsection}{\numberline {19.0.1}$\sigma _{max}$ , $||\nu ||$ and $\qopname \relax m{max}(||y(t)||)$}{17}{subsubsection.19.0.1}
+\contentsline {section}{\numberline {20}Frequency response}{17}{section.20}
+\contentsline {subsection}{\numberline {20.1}Frequency response of SISO systems}{17}{subsection.20.1}
+\contentsline {subsection}{\numberline {20.2}Frequency response of MIMO systems}{17}{subsection.20.2}
+\contentsline {section}{\numberline {21}Pole placement}{18}{section.21}
+\contentsline {section}{\numberline {22}State-feedback regulator}{18}{section.22}
+\contentsline {subsection}{\numberline {22.1}Full state feedback: SISO example}{18}{subsection.22.1}
+\contentsline {section}{\numberline {23}LQR}{18}{section.23}
+\contentsline {subsection}{\numberline {23.1}LQR in the frequency domain}{19}{subsection.23.1}
+\contentsline {subsubsection}{\numberline {23.1.1}Simplification: Static reference \& Linear plant}{19}{subsubsection.23.1.1}
+\contentsline {section}{\numberline {24}LQRI}{19}{section.24}
+\contentsline {subsubsection}{\numberline {24.0.1}Extension of Q and R}{19}{subsubsection.24.0.1}
+\contentsline {subsubsection}{\numberline {24.0.2}The objective function J}{19}{subsubsection.24.0.2}
+\contentsline {section}{\numberline {25}Finite Horizon LQR}{20}{section.25}
+\contentsline {section}{\numberline {26}LQR feedforward}{20}{section.26}
+\contentsline {subsubsection}{\numberline {26.0.1}Dynamics}{20}{subsubsection.26.0.1}
+\contentsline {subsubsection}{\numberline {26.0.2}Objective function}{20}{subsubsection.26.0.2}
+\contentsline {subsubsection}{\numberline {26.0.3}Constraints}{20}{subsubsection.26.0.3}
+\contentsline {section}{\numberline {27}NOC}{20}{section.27}
+\contentsline {section}{\numberline {28}MPC}{20}{section.28}
+\contentsline {subsubsection}{\numberline {28.0.1}Classical design}{20}{subsubsection.28.0.1}
+\contentsline {subsubsection}{\numberline {28.0.2}MPC}{21}{subsubsection.28.0.2}
+\contentsline {subsubsection}{\numberline {28.0.3}Pros}{21}{subsubsection.28.0.3}
+\contentsline {subsubsection}{\numberline {28.0.4}Cons}{21}{subsubsection.28.0.4}
+\contentsline {section}{\numberline {29}State observer}{21}{section.29}
+\contentsline {subsection}{\numberline {29.1}Solution (dual LQR problem)}{21}{subsection.29.1}
+\contentsline {subsection}{\numberline {29.2}Kalman filter}{22}{subsection.29.2}
+\contentsline {section}{\numberline {30}LQG}{22}{section.30}
+\contentsline {section}{\numberline {31}LTR}{22}{section.31}
+\contentsline {section}{\numberline {32}LQG Extensions}{23}{section.32}
+\contentsline {subsection}{\numberline {32.1}LQG reference tracking}{23}{subsection.32.1}
+\contentsline {subsection}{\numberline {32.2}LQGI}{23}{subsection.32.2}
+\contentsline {subsubsection}{\numberline {32.2.1}Design procedure}{24}{subsubsection.32.2.1}
+\contentsline {section}{\numberline {33}$\beta $ Method}{24}{section.33}
+\contentsline {part}{\numberline {III}Appendix}{24}{part.3}
+\contentsline {section}{\numberline {34}MATLAB}{24}{section.34}
+\contentsline {section}{\numberline {35}Complex numbers}{25}{section.35}
+\contentsline {section}{\numberline {36}Trigonometric functions}{25}{section.36}
+\contentsline {section}{\numberline {37}Euler identities}{25}{section.37}
+\contentsline {section}{\numberline {38}dB}{25}{section.38}
