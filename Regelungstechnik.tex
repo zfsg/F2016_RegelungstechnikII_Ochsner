@@ -1,10 +1,10 @@
 \documentclass[10pt,a4paper]{scrartcl}
 \usepackage[english]{babel} %language
 	
-\input{../Headerfiles/Packages}
-\input{../Headerfiles/Titles}
-\input{../Headerfiles/Commands}
-\input{../Headerfiles/Mathcolumns}
+\input{../../Headerfiles/Packages}
+\input{../../Headerfiles/Titles}
+\input{../../Headerfiles/Commands}
+\input{../../Headerfiles/Mathcolumns}
 
 %-------------------------------------------------------------------
 \makeatletter%extension for matrices allows vertical lines
@@ -646,8 +646,8 @@
 	\hline
 	for minimumphase system:&\\	
 	$\phi_{\omega\rightarrow 0}=\begin{cases}
-	-k\cdot \pi/2\\
-	-\pi/2-k\cdot \pi/2
+	-k\cdot \pi/2&if \text{ sign}\left(\frac{b_0}{a_0}\right)>0\\
+	-\pi/2-k\cdot \pi/2&if\text{ sign}\left(\frac{b_0}{a_0}\right)<0
 	\end{cases}$&\\
 	$\phi_{\omega\rightarrow\infty}=r\cdot \pi/2$&	
 	}
